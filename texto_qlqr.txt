@@ -14,6 +14,8 @@ Caçador 1: Acha que ele está lá dentro?
 
 Caçador 2: Muito bem. Vamos pegá-lo!
 
+------------------------------------------------------------------------------
+
 Caçador 1: Uau. Espera aí. Você sabe o que essa coisa pode fazer com você?
 
 Caçador 3: É, ele vai moer seus ossos para fazer pão.
